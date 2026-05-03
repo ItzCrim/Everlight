@@ -1,3 +1,48 @@
+| Version 1.2.0 |
+
+- Added Better Archeology (Suggested by Levy)
+- Added Lighter End which overhauls the end by adding 9 new biomes with a few new mobs. 
+- Added PrismaCraft which overhauls the aquatic side of things a little more by adding more structures and items that make sense for people who like to explore the ocean.
+- Added Sea Life which adds lots of new fishing features as well as alot more fish life
+- Added Sunken Skeletons that spawn underwater!
+- Added Mermod, which allows you to craft a necklace that turns you into a mermaid! 
+- Added Fishing Frontier, which overhauls the vanilla fishing by introducing situational and location based fishing, as well as more loot from fishing.
+- Added new cute and tamable mobs such as Snuffles, Sea Otters, Fennec Foxes, Suger Gliders, Prairie Dogs, Springhares, Harp Seals, Ferrets, Red Pandas, Meerkats and Deer!
+- Added Tarot Cards, which are collectables and offer some passive effects.
+- Added Accents, which are more customization options for the player. Hats, backblings and more.
+- Added More Shield Variants for all the wood types.
+- Added More Stick Variants for all the wood types, which also adds more tool and weapon variants depending on which stick type you use!
+- Added Ability to dye item frames.
+- Added Ability to set custom names to make it easier for players to identify you.
+- Added Chest Tracker which lets you search for an item and highlight the chests around you that has them. Default keybind is "Y".
+- Added Waystones (You're welcome Rayray)
+- Added More Cat Variants as well as many new cat features such as new sitting animations, eating dropped fish, recalling cat with Cod, baby villagers playing with cats, Cats laying down near warm places or when their owner disconnects, and more!
+- Added A new mechanic that makes sand that's touching water wet. sorta like irl on beaches. wet sand doesn't have gravity and allows suger canes to be planted on it even when there's no water nearby!
+- Added A new Photo Mode which allows you to take isometric renders of your builds.
+
+As the server starts to age a bit, I want to lean into the areas where vanilla Minecraft feels a little empty. So an update with these changes makes sense to me. With this update, we stray just a little bit from that Vanilla+ feeling without losing the spirit of what minecraft is.
+
+- The End and Oceans
+
+I wanted to add Lighter End. It brings in a lot of those cool Better End features but stays way more balanced. It doesn't add any crazy ores or game breaking items, so it keeps the spirit of the game intact...***mostly***. 
+Honestly, the End is just feeling a bit stale at this stage of the server, so this should make it feel like a fresh experience again. 
+I’ve also added a few mods to make the oceans actually feel alive. Minecraft’s ocean biomes **SUCK**, and I really wanted to flesh them out so exploring underwater actually feels more fun and rewarding.
+
+- Archeology and Waypoints
+
+I’ve decided to go ahead and add Better Archeology. It was something I was on the fence about before, but it honestly makes sense for where we are at now. 
+On that same note, I’m also adding Waypoints. I was originally against them because I wanted to keep that vanilla travel feel, but the border is huge now and everyone is already established. It feels like a fair quality of life move so people aren't spending all their time just walking back and forth.
+
+- Player Expression and Trading
+
+For the rest of the mods, I really wanted to focus on personality. I love seeing how people express themselves in SMPs, so I’m adding stuff like Accents and Tarot Cards. The hope is that these collectibles will give players a reason to actually trade and interact more. I’ve also added a ton of variants for shields, tools, and weapons, along with more pet features and even dyable item frames. I just want everyone to have the tools to make their gear and bases feel unique to them.
+
+And of course, I finally added a bunch of new mobs based on all the requests. Most of these are tamable and some have unique drops or specific mechanics tied to them.
+
+That’s my reasoning for everything. I hope you enjoy this update. Please note that i did not have any time whatsoever to actually test this other than launching the game and celebrating the fact that it did not crash. there most likely will be bugs and crashes, be patient with me as i deal with them and don't forget to report them.
+
+- Crim
+
 | Version 1.1.2 |
 
 - Added Packet Fixer (Attempting to fix the Network Protocol Errors)
